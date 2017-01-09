@@ -2,1228 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e124c72-30fe-4540-9925-84ea330b9837" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/__init__.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/board.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/definitions.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-50.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-51.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-52.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-53.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-54.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-55.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-56.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-57.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-58.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-59.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-60.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-61.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-01-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-50.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-51.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-52.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-53.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-54.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-55.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-56.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-57.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-58.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-02-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-03-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-04-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-05-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-06-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-07-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-50.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-51.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-52.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-53.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-54.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-55.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-08-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-09-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-10-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-11-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-12-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-13-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-14-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-15-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-16-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-17-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-18-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-19-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-20-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-21-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-50.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-51.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-52.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-53.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-54.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-55.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-56.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-57.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-58.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-59.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-60.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-61.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-62.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-63.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-64.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-65.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-22-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-23-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-24-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-25-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-50.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-51.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-52.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-53.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-54.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-55.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-26-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-50.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-51.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-52.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-53.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-54.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-55.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-56.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-57.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-58.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-59.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-60.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-61.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-62.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-63.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-64.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-65.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-66.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-27-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-44.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-45.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-46.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-47.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-48.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-49.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-28-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-29-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-13.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-14.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-15.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-16.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-17.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-18.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-19.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-20.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-21.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-22.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-23.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-24.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-25.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-26.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-27.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-28.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-29.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-30.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-31.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-32.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-33.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-34.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-35.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-36.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-37.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-38.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-39.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-40.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-41.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-42.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-43.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-30-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-1.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-10.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-11.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-12.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-2.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-3.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-4.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-5.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-6.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-7.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-8.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/kgs/2016-12-31-9.sgf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/processor.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/sgf_parser/sgf.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/sgf_parser/sgf_properties.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/tests/processor_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_grammar_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_properties_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/requirements.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redgo/board.py" afterPath="$PROJECT_DIR$/redgo/board.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/redgo/processor.py" afterPath="$PROJECT_DIR$/redgo/processor.py" />
     </list>
     <ignored path="RedGo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1237,14 +19,15 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/RedGo$show_sgf.coverage" NAME="show_sgf Coverage Results" MODIFIED="1483943876509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tests" />
-    <SUITE FILE_PATH="coverage/RedGo$Unittests_in_sgf_test.coverage" NAME="Unittests in sgf_test Coverage Results" MODIFIED="1483945866334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
-    <SUITE FILE_PATH="coverage/RedGo$Unittests_in_SgfPropertiesTestCase.coverage" NAME="Unittests in SgfPropertiesTestCase Coverage Results" MODIFIED="1483945918810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
     <SUITE FILE_PATH="coverage/RedGo$Unittest_SgfGrammarTestCase_test_is_valid_property_identifier.coverage" NAME="Unittest SgfGrammarTestCase.test_is_valid_property_identifier Coverage Results" MODIFIED="1483945898522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
-    <SUITE FILE_PATH="coverage/RedGo$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1483945884372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests" />
     <SUITE FILE_PATH="coverage/RedGo$Unittests_in_SgfTestCase.coverage" NAME="Unittests in SgfTestCase Coverage Results" MODIFIED="1483945926207" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
-    <SUITE FILE_PATH="coverage/RedGo$sgf_grammar.coverage" NAME="sgf_grammar Coverage Results" MODIFIED="1483945875919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/sgf_parser" />
     <SUITE FILE_PATH="coverage/RedGo$Unittests_in_SgfGrammarTestCase.coverage" NAME="Unittests in SgfGrammarTestCase Coverage Results" MODIFIED="1483945912907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
-    <SUITE FILE_PATH="coverage/RedGo$processor_test.coverage" NAME="processor_test Coverage Results" MODIFIED="1483947470121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests" />
+    <SUITE FILE_PATH="coverage/RedGo$Unittest_SgfTestCase_test_node_get_setup_stones.coverage" NAME="Unittest SgfTestCase.test_node_get_setup_stones Coverage Results" MODIFIED="1483970629691" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
+    <SUITE FILE_PATH="coverage/RedGo$Unittests_in_SgfPropertiesTestCase.coverage" NAME="Unittests in SgfPropertiesTestCase Coverage Results" MODIFIED="1483945918810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
+    <SUITE FILE_PATH="coverage/RedGo$processor_test.coverage" NAME="processor_test Coverage Results" MODIFIED="1483965634686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests" />
+    <SUITE FILE_PATH="coverage/RedGo$Unittests_in_tests.coverage" NAME="Unittests in tests Coverage Results" MODIFIED="1483945884372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests" />
+    <SUITE FILE_PATH="coverage/RedGo$sgf_grammar.coverage" NAME="sgf_grammar Coverage Results" MODIFIED="1483945875919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/sgf_parser" />
+    <SUITE FILE_PATH="coverage/RedGo$Unittests_in_sgf_test.coverage" NAME="Unittests in sgf_test Coverage Results" MODIFIED="1483945866334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/redgo/tests/sgf_parser" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -1254,46 +37,26 @@
     <favorites_list name="RedGo" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.53299123">
       <split-first>
-        <leaf>
-          <file leaf-file-name="requirements.txt" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/requirements.txt">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="0">
-                  <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="board.py" pinned="false" current-in-tab="false">
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="board.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/redgo/board.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="207">
-                  <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-                  <folding />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="processor.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/redgo/processor.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="138">
-                  <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+                <state relative-caret-position="726">
+                  <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
                   <folding>
-                    <element signature="e#0#29#0" expanded="true" />
+                    <element signature="e#0#27#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+          <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/.gitignore">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="69">
-                  <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+                <state relative-caret-position="66">
+                  <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -1302,26 +65,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="sgf.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="190">
-                  <caret line="588" column="0" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
+                <state relative-caret-position="-42">
+                  <caret line="242" column="8" lean-forward="false" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
                   <folding>
                     <element signature="e#182#197#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="sgf_grammar.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="201">
-                  <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-                  <folding>
-                    <element signature="e#733#742#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -1330,10 +81,32 @@
           <file leaf-file-name="processor_test.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/redgo/tests/processor_test.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="69">
-                  <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+                <state relative-caret-position="66">
+                  <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
                   <folding>
                     <element signature="e#0#29#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="sgf_test.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="112">
+                  <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="processor.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/redgo/processor.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="272">
+                  <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+                  <folding>
+                    <element signature="e#0#14#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -1349,6 +122,16 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>get_root</find>
+      <find>handicap</find>
+      <find>HA</find>
+      <find>get_handicap</find>
+      <find>AE</find>
+      <find>get_setup_stones</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1367,12 +150,13 @@
         <option value="$PROJECT_DIR$/tests/sgf_parser/sgf_test.py" />
         <option value="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_grammar_test.py" />
         <option value="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_properties_test.py" />
-        <option value="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py" />
         <option value="$PROJECT_DIR$/redgo/tests/processor_test.py" />
-        <option value="$PROJECT_DIR$/redgo/board.py" />
         <option value="$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py" />
-        <option value="$PROJECT_DIR$/redgo/processor.py" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/redgo/sgf_parser/sgf.py" />
+        <option value="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py" />
+        <option value="$PROJECT_DIR$/redgo/processor.py" />
+        <option value="$PROJECT_DIR$/redgo/board.py" />
       </list>
     </option>
   </component>
@@ -1383,20 +167,13 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1985" />
-    <option name="y" value="-4" />
-    <option name="width" value="1855" />
-    <option name="height" value="1084" />
+    <option name="x" value="1345" />
+    <option name="y" value="24" />
+    <option name="width" value="1615" />
+    <option name="height" value="1026" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
-    <OptionsSetting value="true" id="Add" />
-    <OptionsSetting value="true" id="Remove" />
-    <OptionsSetting value="true" id="Checkout" />
-    <OptionsSetting value="true" id="Update" />
-    <OptionsSetting value="true" id="Status" />
-    <OptionsSetting value="true" id="Edit" />
+  <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
-    <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -1413,16 +190,10 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="RedGo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="RedGo" />
@@ -1495,6 +266,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../coursera" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="/usr/bin/node" />
+    <property name="prop_add_unversioned_files" value="true" />
+    <property name="nodejs_interpreter_path" value="/usr/bin/node" />
+    <property name="js.eslint.eslintPackage" value="" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -1504,30 +278,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.processor_test">
-    <configuration default="false" name="Unittest SgfGrammarTestCase.test_is_valid_property_identifier" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redgo/tests/sgf_parser" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="RedGo" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_grammar_test.py" />
-      <option name="CLASS_NAME" value="SgfGrammarTestCase" />
-      <option name="METHOD_NAME" value="test_is_valid_property_identifier" />
-      <option name="FOLDER_NAME" value="" />
-      <option name="TEST_TYPE" value="TEST_METHOD" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PUREUNITTEST" value="true" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python tests.Unittest SgfTestCase.test_node_get_setup_stones">
     <configuration default="false" name="Unittests in SgfGrammarTestCase" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1615,6 +366,29 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Unittest SgfTestCase.test_node_get_setup_stones" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/redgo/tests/sgf_parser" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="RedGo" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py" />
+      <option name="CLASS_NAME" value="SgfTestCase" />
+      <option name="METHOD_NAME" value="test_node_get_setup_stones" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_METHOD" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <option name="PUREUNITTEST" value="true" />
+      <option name="PARAMS" value="" />
+      <option name="USE_PARAM" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -1633,6 +407,12 @@
       <option name="CUSTOM_SETTINGS" value="false" />
       <option name="USE_OPTIONS" value="false" />
       <option name="OPTIONS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -1698,10 +478,16 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
-      <command value="run-script" />
+      <command value="run" />
       <scripts />
       <node-interpreter value="project" />
       <envs />
@@ -1818,19 +604,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest SgfGrammarTestCase.test_is_valid_property_identifier" />
-      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in SgfGrammarTestCase" />
-      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SgfPropertiesTestCase" />
-      <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in SgfTestCase" />
-      <item index="4" class="java.lang.String" itemvalue="Python.processor_test" />
+      <item index="0" class="java.lang.String" itemvalue="Python tests.Unittests in SgfGrammarTestCase" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in SgfPropertiesTestCase" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SgfTestCase" />
+      <item index="3" class="java.lang.String" itemvalue="Python.processor_test" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest SgfTestCase.test_node_get_setup_stones" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.processor_test" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Unittests in SgfTestCase" />
-        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SgfPropertiesTestCase" />
-        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in SgfGrammarTestCase" />
-        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittest SgfGrammarTestCase.test_is_valid_property_identifier" />
+        <item index="0" class="java.lang.String" itemvalue="Python tests.Unittest SgfTestCase.test_node_get_setup_stones" />
+        <item index="1" class="java.lang.String" itemvalue="Python.processor_test" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Unittests in SgfTestCase" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Unittests in SgfPropertiesTestCase" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Unittests in SgfGrammarTestCase" />
       </list>
     </recent_temporary>
   </component>
@@ -1851,6 +637,18 @@
     <history-entry file="Unittest_SgfGrammarTestCase_test_is_valid_property_identifier - 2017.01.09 at 15h 11m 38s.xml">
       <configuration name="Unittest SgfGrammarTestCase.test_is_valid_property_identifier" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittest_SgfTestCase_test_node_get_setup_stones - 2017.01.09 at 22h 02m 04s.xml">
+      <configuration name="Unittest SgfTestCase.test_node_get_setup_stones" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_SgfTestCase_test_node_get_setup_stones - 2017.01.09 at 22h 02m 26s.xml">
+      <configuration name="Unittest SgfTestCase.test_node_get_setup_stones" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_SgfTestCase_test_node_get_setup_stones - 2017.01.09 at 22h 02m 48s.xml">
+      <configuration name="Unittest SgfTestCase.test_node_get_setup_stones" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittest_SgfTestCase_test_node_get_setup_stones - 2017.01.09 at 22h 03m 49s.xml">
+      <configuration name="Unittest SgfTestCase.test_node_get_setup_stones" configurationId="tests" />
+    </history-entry>
     <history-entry file="Unittests_in_SgfGrammarTestCase - 2017.01.09 at 15h 11m 52s.xml">
       <configuration name="Unittests in SgfGrammarTestCase" configurationId="tests" />
     </history-entry>
@@ -1868,28 +666,31 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1985" y="-4" width="1855" height="1084" extended-state="6" />
+    <frame x="1345" y="24" width="1615" height="1026" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12465374" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12843451" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32947367" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3021739" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1907,98 +708,68 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/redgo/kgs/2016-12-01-1.sgf">
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/definitions.py">
+    <entry file="file://$PROJECT_DIR$/redgo/board.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" column="53" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/show_sgf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="54" column="0" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.4/dist-packages/gomill/sgf_grammar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="108" column="30" selection-start-line="108" selection-start-column="30" selection-end-line="108" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///usr/local/lib/python3.4/dist-packages/gomill/sgf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_properties.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="490">
-          <caret line="757" column="11" selection-start-line="757" selection-start-column="11" selection-end-line="757" selection-end-column="11" />
+        <state relative-caret-position="198">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
           <folding>
-            <element signature="e#353#366#0" expanded="true" />
+            <element signature="e#0#27#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/__init__.py">
+    <entry file="file://$PROJECT_DIR$/redgo/processor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_grammar_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="44" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        <state relative-caret-position="110">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
           <folding>
-            <element signature="e#33#48#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_properties_test.py">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        <state relative-caret-position="198">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12870">
+          <caret line="588" column="0" lean-forward="false" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
           <folding>
-            <element signature="e#36#51#0" expanded="true" />
+            <element signature="e#182#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py">
+    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="246">
-          <caret line="769" column="52" selection-start-line="769" selection-start-column="52" selection-end-line="769" selection-end-column="52" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#49#64#0" expanded="true" />
+            <element signature="e#733#742#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/tests/processor_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -2006,15 +777,154 @@
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/board.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="32" lean-forward="false" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/processor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="10" lean-forward="false" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12870">
+          <caret line="588" column="0" lean-forward="false" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
+          <folding>
+            <element signature="e#182#197#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#733#742#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/tests/processor_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="3" column="0" lean-forward="false" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/definitions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="53" lean-forward="false" selection-start-line="2" selection-start-column="53" selection-end-line="2" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/show_sgf.py" />
+    <entry file="file:///usr/local/lib/python3.4/dist-packages/gomill/sgf_grammar.py" />
+    <entry file="file:///usr/local/lib/python3.4/dist-packages/gomill/sgf.py" />
+    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_properties.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="490">
+          <caret line="757" column="11" lean-forward="false" selection-start-line="757" selection-start-column="11" selection-end-line="757" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/__init__.py" />
+    <entry file="file://$PROJECT_DIR$/redgo/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_grammar_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="44" lean-forward="false" selection-start-line="7" selection-start-column="44" selection-end-line="7" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_properties_test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="47" lean-forward="false" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="553">
+          <caret line="112" column="31" lean-forward="true" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
+          <folding>
+            <element signature="e#733#742#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="3" lean-forward="false" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/requirements.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/kgs/2016-12-11-8.sgf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="4" lean-forward="true" selection-start-line="21" selection-start-column="4" selection-end-line="21" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/redgo/kgs/2016-12-01-1.sgf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="1391" lean-forward="false" selection-start-line="17" selection-start-column="1391" selection-end-line="17" selection-end-column="1391" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redgo/tests/processor_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        <state relative-caret-position="66">
+          <caret line="3" column="24" lean-forward="false" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
@@ -2023,47 +933,39 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="588" column="0" selection-start-line="588" selection-start-column="0" selection-end-line="588" selection-end-column="0" />
+        <state relative-caret-position="-42">
+          <caret line="242" column="8" lean-forward="false" selection-start-line="242" selection-start-column="8" selection-end-line="242" selection-end-column="8" />
           <folding>
             <element signature="e#182#197#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/board.py">
+    <entry file="file://$PROJECT_DIR$/redgo/tests/sgf_parser/sgf_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state relative-caret-position="112">
+          <caret line="192" column="0" lean-forward="false" selection-start-line="192" selection-start-column="0" selection-end-line="192" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/redgo/sgf_parser/sgf_grammar.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="96" column="0" selection-start-line="96" selection-start-column="0" selection-end-line="96" selection-end-column="0" />
-          <folding>
-            <element signature="e#733#742#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/redgo/processor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="138">
-          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+        <state relative-caret-position="272">
+          <caret line="32" column="24" lean-forward="false" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
           <folding>
-            <element signature="e#0#29#0" expanded="true" />
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
+    <entry file="file://$PROJECT_DIR$/redgo/board.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="69">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
-          <folding />
+        <state relative-caret-position="726">
+          <caret line="33" column="12" lean-forward="false" selection-start-line="33" selection-start-column="12" selection-end-line="33" selection-end-column="12" />
+          <folding>
+            <element signature="e#0#27#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
