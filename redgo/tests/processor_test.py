@@ -1,4 +1,14 @@
+import unittest
+from redgo.definitions import *
 from redgo.processor import *
 import os
 
-Processor.read_sgf_file(os.path.join(ROOT_DIR, './kgs/2016-12-01-1.sgf'))
+
+class ProcessorTest(unittest.TestCase):
+    def test_simulate_sgf_board(self):
+        processor = Processor()
+        with open(os.path.join(ROOT_DIR, './kgs/test.sgf'):
+            
+        sgf_string =
+        sgf_string = bytes(sgf_string, encoding='utf8')
+        processor.derive_sgf_content(sgf_string)

@@ -35,10 +35,12 @@ class Processor:
         board_solution = []
         self.handicap(board, sgf_game)
         for node in sgf_game.main_sequence_iter():
+            print(node.get_raw_move())
             color, move = node.get_move()
-            problem, solution = board.get_features(color, move)
-            board_problems.append(problem)
-            board_solution.append(solution)
+            print(color, move)
+            # problem, solution = board.get_features(color, move)
+            # board_problems.append(problem)
+            # board_solution.append(solution)
             board.move(color, move)
         return board_problems, board_solution
 
