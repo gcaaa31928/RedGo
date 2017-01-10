@@ -28,6 +28,18 @@ class Processor:
     #     with open(file_path, 'r') as content_file:
     #         content = bytes(content_file.read(), encoding='utf8')
 
+    def simulate_sgf_content(self, sgf_content):
+        sgf_game = sgf.Sgf_game.from_string(sgf_content)
+        board = Board(19)
+        self.handicap(board, sgf_game)
+        for node in sgf_game.main_sequence_iter():
+            color, move = node.get_move()
+            if color is None or move is None:
+                continue
+            color = Color.black if color == 'b' else Color.white
+            board.move(color, move)
+        return board
+
     def derive_sgf_content(self, sgf_content):
         sgf_game = sgf.Sgf_game.from_string(sgf_content)
         board = Board(19)
@@ -35,12 +47,13 @@ class Processor:
         board_solution = []
         self.handicap(board, sgf_game)
         for node in sgf_game.main_sequence_iter():
-            print(node.get_raw_move())
             color, move = node.get_move()
-            print(color, move)
-            # problem, solution = board.get_features(color, move)
-            # board_problems.append(problem)
-            # board_solution.append(solution)
+            if color is None or move is None:
+                continue
+            problem, solution = board.get_features(color, move)
+            board_problems.append(problem)
+            board_solution.append(solution)
+            color = Color.black if color == 'b' else Color.white
             board.move(color, move)
         return board_problems, board_solution
 
@@ -55,6 +68,7 @@ class Processor:
                 probs, sols = self.derive_sgf_content(sgf_content)
                 all_probs.extend(probs)
                 all_sols.extend(sols)
+            print(name)
         return all_probs, all_sols
 
     def get_total_samples_in_dir(self):

@@ -1,5 +1,6 @@
 from .sgf_parser import sgf
 from enum import Enum
+import numpy as np
 
 
 class Color(Enum):
@@ -31,7 +32,8 @@ class Chain:
         return len(self.liberties) == 0
 
     def remove_liberty(self, pos):
-        self.liberties.remove(pos)
+        if pos in self.liberties:
+            self.liberties.remove(pos)
 
     def merge_chain(self, chain, joint_pos):
         self.stones += list(set(chain.stones) - set(self.stones))
@@ -118,7 +120,32 @@ class Board:
         self.remove_enemy_liberty(color, pos)
 
     def get_features(self, color, move):
-        pass
+        row, col = move
+        sol = row * self.size + col
+        probs = np.zeros((self.size, self.size, 7))
+        for row in range(0, self.size):
+            for col in range(0, self.size):
+                pos = (row, col)
+                stone_color = self.board.get(pos)
+                if stone_color is None:
+                    continue
+                probs[row, col, 0] = 1 if stone_color == color else 2
+                chain = self.chains.get(pos)
+                if stone_color == color:
+                    if chain.num_liberties() <= 1:
+                        probs[row, col, 1] = 1
+                    elif chain.num_liberties() <= 3:
+                        probs[row, col, 2] = 1
+                    elif chain.num_liberties() >= 4:
+                        probs[row, col, 3] = 1
+                else:
+                    if chain.num_liberties() <= 1:
+                        probs[row, col, 4] = 1
+                    elif chain.num_liberties() <= 3:
+                        probs[row, col, 5] = 1
+                    elif chain.num_liberties() >= 4:
+                        probs[row, col, 6] = 1
+        return probs, sol
 
     def show_liberty_info(self):
         res = ''
@@ -134,18 +161,20 @@ class Board:
         return res
 
     def __str__(self):
-        res = ''
+        res = ' ' + '-' * (self.size * 2 + 1) + '\n'
+        print(res)
         for i in range(self.size - 1, -1, -1):
-            line = ''
+            line = '|'
             for j in range(0, self.size):
                 stone = self.board.get((i, j))
                 if stone is None:
-                    line += '.'
+                    line += ' .'
                 elif stone == Color.black:
-                    line += '*'
+                    line += ' X'
                 elif stone == Color.white:
-                    line += '0'
-            res += line + '\n'
+                    line += ' O'
+            res += line + ' |\n'
+        res += ' ' + '-' * (self.size * 2 + 1) + '\n'
         return res
 
     @staticmethod
