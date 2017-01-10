@@ -15,9 +15,13 @@ class Chain:
         self.liberties = []
 
     def add_stone(self, pos):
+        if pos in self.stones:
+            return
         self.stones.append(pos)
 
     def add_liberty(self, pos):
+        if pos in self.liberties:
+            return
         self.liberties.append(pos)
 
     def num_liberties(self):
@@ -56,7 +60,7 @@ class Board:
             chain.add_liberty(pos)
 
     def create_chain(self, color, pos):
-        chain = Chain(color)
+        chain = Chain(color, self.size)
         row, col = pos
         chain.add_stone(pos)
         for liberty_pos in [(row + 1, col), (row - 1, col), (row, col + 1), (row, col - 1)]:
@@ -67,16 +71,17 @@ class Board:
 
     def remove_enemy_liberty(self, color, pos):
         row, col = pos
-        for liberty_pos in [(row + 1, col), (row - 1, col), (row, col + 1), (row, col - 1)]:
+        for enemy_chain_pos in [(row + 1, col), (row - 1, col), (row, col + 1), (row, col - 1)]:
+            if self.over_bound(enemy_chain_pos) or enemy_chain_pos not in self.board:
+                continue
             # is enemy
-            if self.board[liberty_pos] != color:
-                enemy_chain = self.chains[liberty_pos]
+            if self.board[enemy_chain_pos] != color:
+                enemy_chain = self.chains[enemy_chain_pos]
                 enemy_chain.remove_liberty(pos)
                 if enemy_chain.can_not_breath():
                     self.chains_can_not_breath(enemy_chain)
 
     def chains_can_not_breath(self, chain):
-        color = chain.color
         captured_stones = 0
         for stone_pos in chain.stones:
             row, col = stone_pos
@@ -84,17 +89,24 @@ class Board:
             del self.chains[stone_pos]
             captured_stones += 1
             for move_pos in [(row + 1, col), (row - 1, col), (row, col + 1), (row, col - 1)]:
+                if self.over_bound(move_pos) or move_pos not in self.chains:
+                    continue
                 enemy_chain = self.chains[move_pos]
-                self.add_liberty(enemy_chain, move_pos)
+                if enemy_chain.color != chain.color:
+                    self.add_liberty(enemy_chain, stone_pos)
         self.last_move_captured = captured_stones
 
     def merge_adjacent_chain(self, chain, pos):
         row, col = pos
         for adjacent_pos in [(row + 1, col), (row - 1, col), (row, col + 1), (row, col - 1)]:
+            if self.over_bound(adjacent_pos) or adjacent_pos not in self.chains:
+                continue
             adjacent_chain = self.chains[adjacent_pos]
             if adjacent_chain.color == chain.color:
                 chain.merge_chain(adjacent_chain, pos)
-                del self.chains[adjacent_pos]
+                for stone_pos in adjacent_chain.stones:
+                    self.chains[stone_pos] = chain
+                self.chains[adjacent_pos] = chain
         return chain
 
     def move(self, color, pos):
@@ -103,6 +115,35 @@ class Board:
             return
         chain = self.create_chain(color, pos)
         self.merge_adjacent_chain(chain, pos)
+        self.remove_enemy_liberty(color, pos)
 
     def get_features(self, color, move):
         pass
+
+    def show_liberty_info(self):
+        res = ''
+        for i in range(self.size - 1, -1, -1):
+            line = ''
+            for j in range(0, self.size):
+                chain = self.chains.get((i, j))
+                if chain is None:
+                    line += '.'
+                else:
+                    line += str(chain.num_liberties())
+            res += line + '\n'
+        return res
+
+    def __str__(self):
+        res = ''
+        for i in range(self.size - 1, -1, -1):
+            line = ''
+            for j in range(0, self.size):
+                stone = self.board.get((i, j))
+                if stone is None:
+                    line += '.'
+                elif stone == Color.black:
+                    line += '*'
+                elif stone == Color.white:
+                    line += '0'
+            res += line + '\n'
+        return res
