@@ -34,8 +34,8 @@ class Chain:
         self.liberties.remove(pos)
 
     def merge_chain(self, chain, joint_pos):
-        self.stones.extend(chain.stones)
-        self.liberties.extend(chain.liberties)
+        self.stones += list(set(chain.stones) - set(self.stones))
+        self.liberties += list(set(chain.liberties) - set(self.liberties))
         self.remove_liberty(joint_pos)
         return self
 
@@ -147,3 +147,16 @@ class Board:
                     line += '0'
             res += line + '\n'
         return res
+
+    @staticmethod
+    def get_from_string(board_str):
+        rows = [line.strip() for line in board_str.strip().split('\n')]
+        rows.reverse()
+        board = Board(len(rows))
+        for i, row in enumerate(rows):
+            for j, color in enumerate(row):
+                if color == 'w':
+                    board.move(Color.white, (i, j))
+                elif color == 'b':
+                    board.move(Color.black, (i, j))
+        return board
