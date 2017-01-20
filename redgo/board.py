@@ -145,6 +145,7 @@ class Board:
                         probs[row, col, 5] = 1
                     elif chain.num_liberties() >= 4:
                         probs[row, col, 6] = 1
+                probs[row, col, 7] = 1
         return probs, sol
 
     def show_liberty_info(self):

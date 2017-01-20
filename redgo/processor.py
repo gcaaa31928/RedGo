@@ -73,9 +73,6 @@ class Processor:
 
     def get_total_samples_in_dir(self):
         sgf_zips = find_files(self.sgf_dir)
-        all_probs = []
-        all_sols = []
         for sgf_zip in sgf_zips:
             probs, sols = self.get_total_samples_in_zip(sgf_zip)
-            all_probs.extend(probs)
-            all_sols.extend(sols)
+            yield probs, sols
