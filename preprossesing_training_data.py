@@ -15,7 +15,7 @@ for probs, sols in processor.get_total_samples_in_dir():
     sols = to_categorical(sols, nb_classes=19 * 19)
     x_dataset.resize(x_dataset.shape[0] + probs.shape[0], axis=0)
     y_dataset.resize(y_dataset.shape[0] + sols.shape[0], axis=0)
-    x_dataset[-probs.shape[0]:] = probqs
+    x_dataset[-probs.shape[0]:] = probs
     y_dataset[-sols.shape[0]:] = sols
 
 h5f.close()
