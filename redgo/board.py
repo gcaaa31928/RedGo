@@ -124,7 +124,7 @@ class Board:
         if move:
             row, col = move
             sol = row * self.size + col
-        probs = np.zeros((self.size, self.size, 7))
+        probs = np.zeros((self.size, self.size, 8))
         for row in range(0, self.size):
             for col in range(0, self.size):
                 pos = (row, col)
