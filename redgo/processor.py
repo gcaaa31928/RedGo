@@ -57,7 +57,7 @@ class Processor:
             board.move(color, move)
         return board_problems, board_solution
 
-    def get_total_samples_in_zip(self, current_zip_file):
+    def get_total_samples_in_zip(self, current_zip_file, batch_size=1000):
         current_zip = zipfile.ZipFile(current_zip_file)
         file_names = current_zip.namelist()
         all_probs = []
@@ -68,11 +68,15 @@ class Processor:
                 probs, sols = self.derive_sgf_content(sgf_content)
                 all_probs.extend(probs)
                 all_sols.extend(sols)
+                if len(all_probs) >= batch_size:
+                    yield all_probs, all_sols
+                    all_probs = []
+                    all_sols = []
             print(name)
-        return all_probs, all_sols
+        yield all_probs, all_sols
 
     def get_total_samples_in_dir(self):
         sgf_zips = find_files(self.sgf_dir)
         for sgf_zip in sgf_zips:
-            probs, sols = self.get_total_samples_in_zip(sgf_zip)
-            yield probs, sols
+            for probs, sols in self.get_total_samples_in_zip(sgf_zip):
+                yield probs, sols
