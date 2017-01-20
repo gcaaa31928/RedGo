@@ -120,8 +120,10 @@ class Board:
         self.remove_enemy_liberty(color, pos)
 
     def get_features(self, color, move):
-        row, col = move
-        sol = row * self.size + col
+        sol = None
+        if move:
+            row, col = move
+            sol = row * self.size + col
         probs = np.zeros((self.size, self.size, 7))
         for row in range(0, self.size):
             for col in range(0, self.size):
@@ -134,16 +136,16 @@ class Board:
                 if stone_color == color:
                     if chain.num_liberties() <= 1:
                         probs[row, col, 1] = 1
-                    elif chain.num_liberties() <= 3:
+                    elif chain.num_liberties() <= 2:
                         probs[row, col, 2] = 1
-                    elif chain.num_liberties() >= 4:
+                    elif chain.num_liberties() >= 3:
                         probs[row, col, 3] = 1
                 else:
                     if chain.num_liberties() <= 1:
                         probs[row, col, 4] = 1
-                    elif chain.num_liberties() <= 3:
+                    elif chain.num_liberties() <= 2:
                         probs[row, col, 5] = 1
-                    elif chain.num_liberties() >= 4:
+                    elif chain.num_liberties() >= 3:
                         probs[row, col, 6] = 1
                 probs[row, col, 7] = 1
         return probs, sol
@@ -160,6 +162,13 @@ class Board:
                     line += str(chain.num_liberties())
             res += line + '\n'
         return res
+
+    def decode_move(self, encode_move):
+        encode_move = int(encode_move)
+        size = int(self.size)
+        row = encode_move // size
+        col = encode_move % size
+        return row, col
 
     def __str__(self):
         res = ' ' + '-' * (self.size * 2 + 1) + '\n'
